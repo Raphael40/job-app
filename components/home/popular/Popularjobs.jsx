@@ -22,7 +22,6 @@ const Popularjobs = () => {
       numPages: 1
     }
   )
-  console.log(data)
 
   const [selectedJob, setSelectedJob] = useState()
 
